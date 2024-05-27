@@ -32,6 +32,5 @@
 [![vittoriamatteoli's GitHub | Stats](https://stats.quine.sh/vittoriamatteoli/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vittoriamatteoli)
 [![vittoriamatteoli's GitHub | Dependencies](https://stats.quine.sh/vittoriamatteoli/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vittoriamatteoli)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vittoriamatteoli&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="vittoriamatteoli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vittoriamatteoli&theme=highcontrast" alt="vittoriamatteoli" /></p>
