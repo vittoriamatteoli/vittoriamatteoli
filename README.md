@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vittoria-matteoli/](https://www.linkedin.com/in/vittoria-matteoli/)
 
-- ⚡My strengths **Perseverance - Quick Learner - Toughness**
+- ⚡My strengths **Perseverance - Quick Learner - Problem Solver**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
