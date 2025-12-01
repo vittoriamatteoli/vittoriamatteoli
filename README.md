@@ -1,19 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vittoria</h1>
 <h3 align="center">An Italian frontend developer living in Switzerland 🍫</h3>
 
-- 🔭 I’m currently working on [eGo app](https://github.com/vittoriamatteoli/project-final)
-
-- 🌱 I’m currently learning **MongoDB - Auth & Validation**
-
-- 🤝 I’m looking for help with [DoggyAdopt - adoption platform](https://github.com/vittoriamatteoli/Auth-project)
-
 - 👨‍💻 All of my projects are available at [https://vittoria-matteoli-portfolio.netlify.app/](https://vittoria-matteoli-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@lavicafra](https://medium.com/@lavicafra)
-
-- 💬 Ask me about **React,React-hooks,UseContext**
-
-- 📫 How to reach me **info@vittoriamatteoli.com**
+- 📫 How to reach me **vittoria05matteoli@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vittoria-matteoli/](https://www.linkedin.com/in/vittoria-matteoli/)
 
